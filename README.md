@@ -1,172 +1,210 @@
 <div align="center">
 
+# Hey, I'm Samrridh
+
+Building products across **AI, developer tools, and consumer software.**
+
+Currently focused on **AI memory, agent interfaces, and software that makes everyday workflows better.**
+
+<br>
+
 <a href="https://linkedin.com/in/samrridh-khanna">
-  <img src="./assets/linkedin.svg" width="25" height="25" alt="LinkedIn" />
+  <img src="./assets/linkedin.svg" width="26" height="26" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://x.com/SamrridhK">
-  <img src="./assets/x.svg" width="25" height="25" alt="X" />
+  <img src="./assets/x.svg" width="26" height="26" alt="X" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/samrridh.k">
-  <img src="./assets/instagram.svg" width="25" height="25" alt="Instagram" />
+  <img src="./assets/instagram.svg" width="26" height="26" alt="Instagram" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@samrridh.khanna">
-  <img src="./assets/youtube.svg" width="25" height="25" alt="YouTube" />
+  <img src="./assets/youtube.svg" width="26" height="26" alt="YouTube" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:samrridh@weaveit.app">
-  <img src="./assets/mail.svg" width="25" height="25" alt="Email" />
+  <img src="./assets/mail.svg" width="26" height="26" alt="Email" />
 </a>
 
-<br><br>
-
-### Building AI systems, developer tools, and infrastructure.
-
-Exploring **AI memory, agents, retrieval, long-term context, and self-hosted systems.**
-
 </div>
 
 <br>
-
-<div align="center">
-  <img src="./assets/terminal.svg" width="760" alt="Samrridh terminal introduction" />
-</div>
-
-<br>
-
----
 
 ## Currently
 
-<table>
-<tr>
-<td width="150"><strong>Building</strong></td>
-<td>AI memory infrastructure and developer-focused products</td>
-</tr>
-<tr>
-<td><strong>Exploring</strong></td>
-<td>AI agents · Retrieval · Long-term context · Memory architectures</td>
-</tr>
-<tr>
-<td><strong>Interested in</strong></td>
-<td>Developer tools · Open source · Infrastructure · Self-hosting</td>
-</tr>
-<tr>
-<td><strong>Learning</strong></td>
-<td>Machine learning · Distributed systems · Applied AI</td>
-</tr>
-</table>
+|                   |                                                                    |
+| ----------------- | ------------------------------------------------------------------ |
+| **Building**      | Provenance-first AI memory and AI-powered productivity software    |
+| **Exploring**     | Agent interfaces · Memory systems · Retrieval · Multimodal context |
+| **Interested in** | Developer tools · Open source · Self-hosting · Consumer software   |
+| **Learning**      | Distributed systems · ML systems · Retrieval architectures         |
 
----
+<br>
 
 ## Selected Work
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
+
+<img src="./assets/projects/unshadow.png" width="100%" alt="Unshadow preview" />
 
 ### Unshadow
 
-**Long-term memory infrastructure for AI.**
+**Provenance-first memory for AI.**
 
-A memory layer for AI applications designed to retain, retrieve, and reason over useful information across conversations and applications.
+Capture knowledge with its source and reuse durable context across AI assistants and applications.
 
-<br>
-
-`AI Memory` · `Python` · `FastAPI` · `LLMs`
+`AI Memory` `Provenance` `Agents` `Context`
 
 <br>
 
-[Repository ↗](https://github.com/) &nbsp;&nbsp; [Website ↗](https://unshadow.dev)
+[**Visit Unshadow ↗**](https://unshadow.dev/)
 
 </td>
 
 <td width="50%" valign="top">
 
-### Agent Lab
+<img src="./assets/projects/devdesk.png" width="100%" alt="Devdesk preview" />
 
-**Experiments with autonomous AI systems.**
+### Devdesk
 
-Experiments around tool-using agents, model orchestration, contextual retrieval, memory, and autonomous workflows.
+**Turn your normal keyboard into an AI workflow keyboard.**
+
+A free software alternative to dedicated AI input hardware for launching agents and reusable AI workflows.
+
+`AI Agents` `Automation` `Productivity` `Developer Tools`
 
 <br>
 
-`Python` · `LLMs` · `Agents` · `Docker`
-
-<br>
-
-[Repository ↗](https://github.com/) &nbsp;&nbsp; [Demo ↗](#)
+[**Open Devdesk ↗**](https://devdesk.unshadow.dev/)
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### Memory Bench
+<img src="./assets/projects/dayloom.png" width="100%" alt="Dayloom preview" />
 
-**Evaluating long-term memory for AI systems.**
+### Dayloom
 
-Experiments and benchmarks for measuring retrieval quality, memory relevance, latency, recall, and long-term information retention.
+**Video micro-journaling for people who don't like to journal.**
+
+Capture short moments instead of writing long diary entries and build a visual record of your life.
+
+`Video` `Journaling` `Consumer App` `AI`
 
 <br>
 
-`Python` · `ML` · `Retrieval` · `Vector Search`
-
-<br>
-
-[Repository ↗](https://github.com/)
+[**Visit Dayloom ↗**](https://dayloom.xyz/)
 
 </td>
 
 <td width="50%" valign="top">
 
-### Homelab Tools
+<img src="./assets/projects/hackernews.png" width="100%" alt="Revamped Hacker News preview" />
 
-**Tools and automations for self-hosted infrastructure.**
+### Revamped Hacker News
 
-Utilities and experiments around Docker, networking, monitoring, infrastructure, servers, and home automation.
+**A modern interface for Hacker News.**
+
+A cleaner reading and browsing experience while keeping the information density that makes Hacker News useful.
+
+`Hacker News` `Frontend` `UX` `Web`
 
 <br>
 
-`Docker` · `Linux` · `Cloudflare` · `Networking`
-
-<br>
-
-[Repository ↗](https://github.com/)
+[**Open Hacker News ↗**](https://hn.unshadow.dev/)
 
 </td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<img src="./assets/projects/snaprank.png" width="100%" alt="SnapRank preview" />
+
+### SnapRank
+
+**Make tier lists together in real time.**
+
+Upload items, drag them between tiers, and rank anything with friends using live WebSocket synchronization.
+
+`WebSockets` `Real-time` `Drag & Drop` `Multiplayer`
+
+<br>
+
+[**GitHub ↗**](https://github.com/Samrridh/SnapRank)
+
+</td>
+
+<td width="50%" valign="top">
+
+<img src="./assets/projects/clipper.png" width="100%" alt="Clipper preview" />
+
+### Clipper
+
+**A lightweight, memory-conscious clipboard manager.**
+
+Searchable history, pinning, deduplication, persistent storage, and automatically expiring sensitive clipboard items.
+
+`Python` `Desktop` `Clipboard` `Utility`
+
+<br>
+
+[**GitHub ↗**](https://github.com/Samrridh/Clipper)
+
+</td>
+
 </tr>
 </table>
 
----
+<br>
 
 ## Technologies
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,java,rust,html,md,powershell&perline=8" alt="Languages" />
+  <img
+    src="https://skillicons.dev/icons?i=python,js,cpp,java,rust,html,md,powershell&perline=8"
+    alt="Languages"
+  />
 </p>
 
 ### Web & Application Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,nodejs,django,fastapi,electron&perline=8" alt="Web technologies" />
+  <img
+    src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,nodejs,django,fastapi,electron&perline=8"
+    alt="Web technologies"
+  />
 </p>
 
 ### Infrastructure & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel,netlify,supabase,mysql,git,githubactions&perline=8" alt="Infrastructure technologies" />
+  <img
+    src="https://skillicons.dev/icons?i=docker,cloudflare,vercel,netlify,supabase,mysql,git,githubactions&perline=8"
+    alt="Infrastructure technologies"
+  />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=npm,pnpm,raspberrypi,arduino,notion,figma&perline=8" alt="Tools" />
+  <img
+    src="https://skillicons.dev/icons?i=npm,pnpm,raspberrypi,arduino,notion,figma&perline=8"
+    alt="Tools"
+  />
 </p>
 
 <details>
@@ -200,91 +238,55 @@ Canva · Adobe XD · ESLint · Tampermonkey
 
 </details>
 
----
+<br>
 
 ## Demos & Writing
 
-I'm interested in documenting the systems I build, the decisions behind them, and experiments that don't necessarily become full projects.
+I occasionally share product demos, experiments, and things I'm learning while building.
+
+<a href="https://www.youtube.com/@samrridh.khanna">
+  <img src="./assets/youtube.svg" width="20" height="20" alt="YouTube" />
+</a>
+&nbsp;
+<a href="https://www.youtube.com/@samrridh.khanna"><strong>YouTube ↗</strong></a>
 
 <!--
 
-When you have videos/articles, replace this section with something like:
+Later you can replace the text above with actual content:
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### Building Long-Term Memory for AI Agents
+<img src="./assets/content/video-1.png" width="100%" />
 
-A walkthrough of the architecture and experiments behind an AI memory system.
+### Building provenance-first AI memory
 
-[Watch on YouTube ↗](https://youtube.com/...)
+How Unshadow stores memories together with where they came from.
+
+[Watch ↗](YOUR_VIDEO_URL)
 
 </td>
 
 <td width="50%" valign="top">
 
-### Why AI Memory Needs More Than Vector Search
+<img src="./assets/content/article-1.png" width="100%" />
 
-Notes on retrieval, temporal relevance, memory consolidation, and long-term context.
+### Designing AI-native developer tools
 
-[Read ↗](https://...)
+Thoughts on agent interfaces, workflows, and removing friction from AI tools.
+
+[Read ↗](YOUR_ARTICLE_URL)
 
 </td>
+
 </tr>
 </table>
 
 -->
 
-<a href="https://www.youtube.com/@samrridh.khanna">
-  YouTube ↗
-</a>
-
----
-
-## Elsewhere
-
-<div align="center">
-
-<a href="https://linkedin.com/in/samrridh-khanna">
-  <img src="./assets/linkedin.svg" width="23" height="23" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://x.com/SamrridhK">
-  <img src="./assets/x.svg" width="23" height="23" alt="X" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/samrridh.k">
-  <img src="./assets/instagram.svg" width="23" height="23" alt="Instagram" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/@samrridh.khanna">
-  <img src="./assets/youtube.svg" width="23" height="23" alt="YouTube" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:samrridh@weaveit.app">
-  <img src="./assets/mail.svg" width="23" height="23" alt="Email" />
-</a>
-
 <br><br>
-
-<a href="https://linkedin.com/in/samrridh-khanna">LinkedIn</a>
-&nbsp;·&nbsp;
-<a href="https://x.com/SamrridhK">X</a>
-&nbsp;·&nbsp;
-<a href="https://instagram.com/samrridh.k">Instagram</a>
-&nbsp;·&nbsp;
-<a href="https://www.youtube.com/@samrridh.khanna">YouTube</a>
-&nbsp;·&nbsp;
-<a href="mailto:samrridh@weaveit.app">Email</a>
-
-</div>
-
-<br>
-
----
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg" />
