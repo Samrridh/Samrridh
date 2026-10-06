@@ -1,30 +1,297 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="samrridh's GitHub profile" src="dark_mode.svg" />
-</picture>
+<div align="center">
 
+<a href="https://linkedin.com/in/samrridh-khanna">
+  <img src="./assets/linkedin.svg" width="25" height="25" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/SamrridhK">
+  <img src="./assets/x.svg" width="25" height="25" alt="X" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/samrridh.k">
+  <img src="./assets/instagram.svg" width="25" height="25" alt="Instagram" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@samrridh.khanna">
+  <img src="./assets/youtube.svg" width="25" height="25" alt="YouTube" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:samrridh@weaveit.app">
+  <img src="./assets/mail.svg" width="25" height="25" alt="Email" />
+</a>
 
+<br><br>
 
+### Building AI systems, developer tools, and infrastructure.
 
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Exploring **AI memory, agents, retrieval, long-term context, and self-hosted systems.**
 
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samrridh.k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samrridh-khanna) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SamrridhK) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samrridh@weaveit.app) 
+<br>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![Gutenberg](https://img.shields.io/badge/gutenberg-%23077CB2.svg?style=for-the-badge&logo=gutenberg&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=samrridh&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=samrridh&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=samrridh&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="./assets/terminal.svg" width="760" alt="Samrridh terminal introduction" />
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=samrridh&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<br>
 
 ---
-[![](https://komarev.com/ghpvc/?username=samrridh&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Currently
+
+<table>
+<tr>
+<td width="150"><strong>Building</strong></td>
+<td>AI memory infrastructure and developer-focused products</td>
+</tr>
+<tr>
+<td><strong>Exploring</strong></td>
+<td>AI agents · Retrieval · Long-term context · Memory architectures</td>
+</tr>
+<tr>
+<td><strong>Interested in</strong></td>
+<td>Developer tools · Open source · Infrastructure · Self-hosting</td>
+</tr>
+<tr>
+<td><strong>Learning</strong></td>
+<td>Machine learning · Distributed systems · Applied AI</td>
+</tr>
+</table>
+
+---
+
+## Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Unshadow
+
+**Long-term memory infrastructure for AI.**
+
+A memory layer for AI applications designed to retain, retrieve, and reason over useful information across conversations and applications.
+
+<br>
+
+`AI Memory` · `Python` · `FastAPI` · `LLMs`
+
+<br>
+
+[Repository ↗](https://github.com/) &nbsp;&nbsp; [Website ↗](https://unshadow.dev)
+
+</td>
+
+<td width="50%" valign="top">
+
+### Agent Lab
+
+**Experiments with autonomous AI systems.**
+
+Experiments around tool-using agents, model orchestration, contextual retrieval, memory, and autonomous workflows.
+
+<br>
+
+`Python` · `LLMs` · `Agents` · `Docker`
+
+<br>
+
+[Repository ↗](https://github.com/) &nbsp;&nbsp; [Demo ↗](#)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Memory Bench
+
+**Evaluating long-term memory for AI systems.**
+
+Experiments and benchmarks for measuring retrieval quality, memory relevance, latency, recall, and long-term information retention.
+
+<br>
+
+`Python` · `ML` · `Retrieval` · `Vector Search`
+
+<br>
+
+[Repository ↗](https://github.com/)
+
+</td>
+
+<td width="50%" valign="top">
+
+### Homelab Tools
+
+**Tools and automations for self-hosted infrastructure.**
+
+Utilities and experiments around Docker, networking, monitoring, infrastructure, servers, and home automation.
+
+<br>
+
+`Docker` · `Linux` · `Cloudflare` · `Networking`
+
+<br>
+
+[Repository ↗](https://github.com/)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Technologies
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,java,rust,html,md,powershell&perline=8" alt="Languages" />
+</p>
+
+### Web & Application Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,nodejs,django,fastapi,electron&perline=8" alt="Web technologies" />
+</p>
+
+### Infrastructure & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel,netlify,supabase,mysql,git,githubactions&perline=8" alt="Infrastructure technologies" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=npm,pnpm,raspberrypi,arduino,notion,figma&perline=8" alt="Tools" />
+</p>
+
+<details>
+<summary><strong>More technologies I've worked with</strong></summary>
+
+<br>
+
+**Frontend & UI**
+
+Bootstrap · DaisyUI · Radix UI · Three.js · p5.js · Gatsby · WordPress · Gutenberg
+
+**Backend & APIs**
+
+Socket.IO · JWT · Apache · Expo · Tauri
+
+**Data & ML**
+
+NumPy · Pandas · scikit-learn
+
+**Infrastructure**
+
+DigitalOcean · OVH · GitLab CI · Playwright · Sentry
+
+**Self-hosting & Networking**
+
+Home Assistant · Jellyfin · Pi-hole · WireGuard · Raspberry Pi
+
+**Other**
+
+Canva · Adobe XD · ESLint · Tampermonkey
+
+</details>
+
+---
+
+## Demos & Writing
+
+I'm interested in documenting the systems I build, the decisions behind them, and experiments that don't necessarily become full projects.
+
+<!--
+
+When you have videos/articles, replace this section with something like:
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Building Long-Term Memory for AI Agents
+
+A walkthrough of the architecture and experiments behind an AI memory system.
+
+[Watch on YouTube ↗](https://youtube.com/...)
+
+</td>
+
+<td width="50%" valign="top">
+
+### Why AI Memory Needs More Than Vector Search
+
+Notes on retrieval, temporal relevance, memory consolidation, and long-term context.
+
+[Read ↗](https://...)
+
+</td>
+</tr>
+</table>
+
+-->
+
+<a href="https://www.youtube.com/@samrridh.khanna">
+  YouTube ↗
+</a>
+
+---
+
+## Elsewhere
+
+<div align="center">
+
+<a href="https://linkedin.com/in/samrridh-khanna">
+  <img src="./assets/linkedin.svg" width="23" height="23" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/SamrridhK">
+  <img src="./assets/x.svg" width="23" height="23" alt="X" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/samrridh.k">
+  <img src="./assets/instagram.svg" width="23" height="23" alt="Instagram" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@samrridh.khanna">
+  <img src="./assets/youtube.svg" width="23" height="23" alt="YouTube" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:samrridh@weaveit.app">
+  <img src="./assets/mail.svg" width="23" height="23" alt="Email" />
+</a>
+
+<br><br>
+
+<a href="https://linkedin.com/in/samrridh-khanna">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="https://x.com/SamrridhK">X</a>
+&nbsp;·&nbsp;
+<a href="https://instagram.com/samrridh.k">Instagram</a>
+&nbsp;·&nbsp;
+<a href="https://www.youtube.com/@samrridh.khanna">YouTube</a>
+&nbsp;·&nbsp;
+<a href="mailto:samrridh@weaveit.app">Email</a>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./light_mode.svg" />
+  <img
+    src="./dark_mode.svg"
+    width="100%"
+    alt="Samrridh's GitHub profile"
+  />
+</picture>
