@@ -50,6 +50,24 @@ Currently focused on **AI memory, agent interfaces, and software that makes ever
 
 <td width="50%" valign="top">
 
+<img src="./assets/projects/forgent.png" width="100%" alt="Forgent agent marketplace preview" />
+
+### Forgent
+
+**An agent marketplace with one API.**
+
+Discover and try AI agents, explore multi-agent handoffs with Meko, and verify sample evaluation receipts on Solana devnet.
+
+`AI Agents` `Meko` `Solana` `Developer Tools`
+
+<br>
+
+[**Visit Forgent ↗**](https://forgent-lovat.vercel.app/) · [**GitHub ↗**](https://github.com/Samrridh/forgent)
+
+</td>
+
+<td width="50%" valign="top">
+
 <img src="./assets/projects/unshadow.png" width="100%" alt="Unshadow preview" />
 
 ### Unshadow
@@ -65,6 +83,10 @@ Capture knowledge with its source and reuse durable context across AI assistants
 [**Visit Unshadow ↗**](https://unshadow.dev/)
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -84,10 +106,6 @@ A free software alternative to dedicated AI input hardware for launching agents 
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%" valign="top">
 
 <img src="./assets/projects/dayloom.png" width="100%" alt="Dayloom preview" />
@@ -105,6 +123,10 @@ Capture short moments instead of writing long diary entries and build a visual r
 [**Visit Dayloom ↗**](https://dayloom.xyz/)
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -124,10 +146,6 @@ A cleaner reading and browsing experience while keeping the information density 
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%" valign="top">
 
 <img src="./assets/projects/snaprank.png" width="100%" alt="SnapRank preview" />
@@ -145,6 +163,10 @@ Upload items, drag them between tiers, and rank anything with friends using live
 [**GitHub ↗**](https://github.com/Samrridh/SnapRank)
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
